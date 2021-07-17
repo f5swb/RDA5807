@@ -136,9 +136,9 @@ void setup() {
     rx.setRdsFifo(true);   
     delay(100);
     page1.show();
-    rx.setFrequency(10140);  // Tune on 95.5 MHz
+    rx.setFrequency(8950);  // Tune on 95.5 MHz
     rx.setSeekThreshold(40);       
-    number = 10140;    
+    number = 8950;    
     info(); 
           
     
