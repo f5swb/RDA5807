@@ -12,7 +12,7 @@
 /*********************************************************
    RDS
  *********************************************************/
-char *rdsMsg;
+char *rdsMsg; 
 char *stationName;
 String bufferStatioName = " ";
 String bufferRdsMsg;
