@@ -105,5 +105,13 @@ The RDS station will be updated and the information text in live mode
 
 Good to know: if you want to get back to the first page, just touch the FM clipart, it's also the same operation from page 1 to go to this page !
 
-### 9 - Menu page:
+### 9 - SEEK and TUNE operation:
+
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/page1.PNG" title = "page1.png">
+
+If SEEK button is blue you are in SEEk MODE operation, so if you touch the >> you are going to seek up and << will seek down 
+
+Touch tune button to go to the TUNE MODE operation, so if you touch the + you are going to seek up and - will seek down
+
+Good to know: if you see the menu button in blue the frequency tuned is already in the memory bank (see MEMORY BANK)
 
