@@ -17,7 +17,7 @@ First step is what you need:
 Please don't ask me for another screen size, it takes a lot of time to program, you can download the hmi file if you want to change the size.
 Have a look here if you don't know how to load the file into the nextion : https://www.youtube.com/watch?v=-EV5M9qNkUE
 
-There are three files : 
+There are three files : <br/>
  RDA5807arduino.hmi = if you want to edit ; <br/>
  RDA5807arduino90.tft = a ready to load file to the nextion at 90°; <br/>
  RDA5807arduino270.tft =  a ready to load file to the nextion at 270°. <br/>
