@@ -136,8 +136,7 @@ To mute the volume just touch the MUTE button.
 
 If you press on the MEMORY button this page will be open :
 
-<img src = "
-https://github.com/f5swb/RDA5807/blob/main/Pictures/memory%20bank.PNG" title = "page1.png">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/memory%20bank.PNG" title = "page1.png">
 
-**Good to know : with the MENU button it will be possible to record new frequencies according to your country place** ( TO DO : not in this version)
+**Good to know : with the MENU button it will be possible to record new frequencies into the Nextion memory according to your country place** ( TO DO : not in this version)
 
