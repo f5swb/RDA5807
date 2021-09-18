@@ -181,7 +181,8 @@ This page give you an extra opportunity to catch the RSSI level in live and rota
 Just touch the START button (the level is refreshed each second). <br/>
 
 **Good to know : the frequency is from 88 Mhz to 108 Mhz. <br/>
-If we choose the middle of the band and we calculate the antenna approximativaly : <br/>
+If we choose the middle of the band and we calculate the antenna approximativaly : 
+<br/>
 Middle frequency is 108 - 88 = 20 so the middle frequency is 88 + 10 = 108 Mhz. <br/>
 so now calculate with the lambda formula : <br/>
 Lambda = 300 / F(Mhz) <br/>
