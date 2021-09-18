@@ -119,3 +119,5 @@ Touch TUNE button to go to the TUNE MODE operation, so if you touch the + you ar
 
 Good to know: if you see the MEMORY button in blue the frequency tuned is already in the memory bank (see MEMORY BANK)
 
+### 10 - volume operation:
+
