@@ -45,7 +45,7 @@ As we can see on the picture the chip is small so we have to solder it with comp
 
 ### 3 - Here is the final schema :
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/schema.png" title = "schema.png">
-Do all the link according to the schema :)
+Do all the links according to the schema :)
 
 ### 4 - Load the ino sketch into the arduino nano :
 
