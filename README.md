@@ -76,6 +76,8 @@ void setup() { <br/>
  another way, have a look at your build there's a problem ....
 
 
-  # 7 - First page of the system :
+  # 7 - First page of the system : <br/>
   
+  <img src = " https://github.com/f5swb/RDA5807/blob/main/Pictures/page1.PNG" title = "page1.png">
   
+ 
