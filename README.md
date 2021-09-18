@@ -37,4 +37,4 @@ As we can see on the picture the chip is small so we have to solder it on a litt
 
 
 
-<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rda_solder.jpg" title = "RDA5807 solder">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rda_solder.jpg" width="200" height="150" title = "RDA5807 solder">
