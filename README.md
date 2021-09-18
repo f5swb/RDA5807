@@ -1,6 +1,9 @@
 # RDA5807
 RDA5807 fm chipset / arduino with a Nextion screen F5SWB@2021 / Version 1.16 (f5swb@hotmail.com)
 
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/f5swb.jpg" title = "f5swb">
+
+
 French version : https://github-com.translate.goog/f5swb/RDA5807/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=nui,elem
 
 NEXTION library from  https://github.com/Seithan/EasyNextionLibrary a light and simple library for the Nextion screen - By seithagta. <br/>
