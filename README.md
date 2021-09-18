@@ -136,7 +136,7 @@ If SEEK button is blue you are in SEEK MODE operation, so if you touch the >> yo
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/tune.PNG" title = "page1.png">
 
 
-Touch TUNE button to go to the TUNE MODE operation, so if you touch the + you are going to seek up and - will seek down.
+Touch TUNE button to go to the TUNE MODE operation, so if you touch the + you are going to tune up and - will tune down.
 
 **Good to know: if you see the MEMORY button in blue the frequency tuned is already in the memory bank (see MEMORY BANK).**
 
