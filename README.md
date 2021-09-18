@@ -71,9 +71,9 @@ void setup() { <br/>
    
  if you see this picture your RDA5807M is well detected : 
  
- <img src = " https://github.com/f5swb/RDA5807/blob/main/Pictures/boot2.PNG" title = "schema.png">
+ <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot1.PNG" title = "boot1.png">
  
  another way, have a look at your build there's a problem ....
 
-
+https://github.com/f5swb/RDA5807/blob/main/Pictures/boot2.PNG
   
