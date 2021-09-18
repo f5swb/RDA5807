@@ -97,4 +97,10 @@ After 10 seconds if you don't touch anything, the screen page is going to change
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/page2.PNG" title = "page1.png">
 
+###### Explanation:
+
+The RDS station will be updated and the information text in live mode  
+
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/Page_2_explaination!.png" title = "page1.png">
+
 
