@@ -38,5 +38,5 @@ As we can see on the picture the chip is small so we have to solder it with comp
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rda_solder.jpg" width="300" height="250" title = "RDA5807 solder">
 
 # 3 - Here is the final schema:
-<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/schema.png" width="300" height="250" title = "RDA5807 solder">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/schema.png" title = "schema.png">
 
