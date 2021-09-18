@@ -75,5 +75,7 @@ void setup() { <br/>
  
  another way, have a look at your build there's a problem ....
 
-https://github.com/f5swb/RDA5807/blob/main/Pictures/boot2.PNG
+
+  # 7 - First page of the system :
+  
   
