@@ -155,7 +155,7 @@ You can choose the DATE/TIME, SCREEN, MEMORY BANK or the RSSIFinder function.
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/date.PNG" title = "page1.png">
 
-On this page it's possible to control the date, the time (also the day save time) and choose the PM/AM mode.
+On this page it's possible to control the date, the time (also the day saving time) and choose the PM/AM mode.
 All the values will be recorded for the next restart of the screen if there is a battery in the Nextion screen.
 https://raw.githubusercontent.com/f5swb/RDA5807/main/Pictures/rtc_battery.jpg
 
