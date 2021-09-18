@@ -32,4 +32,6 @@ There are three files : <br/>
 
 # 2- Prepare the RDA5807M chip :
 
+<img src = "https://raw.githubusercontent.com/f5swb/RDA5807/main/Pictures/vs-elec-mini-module-de-radio-chip-fm-stereo-rda5.webp" title = "RDA5807 chip">
+
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/fm-stereo-radio-rda5807m-module-roboromania-pinout_CFyabpEr0p.jpeg" title = "RDA5807 chip">
