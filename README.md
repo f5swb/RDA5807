@@ -160,6 +160,8 @@ On this page it's possible to control the date, the time (also the day saving ti
 https://raw.githubusercontent.com/f5swb/RDA5807/main/Pictures/rtc_battery.jpg***
 
 
+2 - SCREEN : 
 
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/date.PNG" title = "page1.png">
 
 
