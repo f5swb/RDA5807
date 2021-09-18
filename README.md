@@ -47,8 +47,11 @@ Do all the link according to the schema :)
 
 
 # 6 - First start of the system :
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot1.PNG" title = "schema.png">
 
 When you power on the arduino nano there is a scan of the I2C address to control if the RDA5807M is present at the begin of the void setup : <br/>
+
+
 
 void setup() { <br/>
   myNex.begin(115200); // we fix the bauds speed between the arduino and the nextion at 115200 bauds <br/>
@@ -66,5 +69,7 @@ void setup() { <br/>
     myNex.writeStr("VaRDAinit.txt", "failed"); // the RDA5087 found address failed <br/>
   } <br/>
    
-  
+ if you see this picture your RDA5807M is well detected : 
+ 
+ 
   
