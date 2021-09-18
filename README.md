@@ -94,4 +94,6 @@ Good to know: to get a good RDS information, the signal should be upper than 50 
 ### 8 - Normal operation stand alone:
 
 After 10 seconds if you don't touch anything, the screen page is going to change to a different point of view :
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/page2.PNG" title = "page1.png">
+
 
