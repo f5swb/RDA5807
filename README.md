@@ -17,10 +17,10 @@ First step is what you need:
 Please don't ask me for another screen size, it takes a lot of time to program, you can download the hmi file if you want to change the format
 Have a look here if you don't know how to load the file into the nextion : https://www.youtube.com/watch?v=-EV5M9qNkUE
 
-There are two files : 
-- RDA5807arduino.hmi = if you want to edit ;
-- RDA5807arduino90.tft = a ready to load file to the nextion at 90°;
-- RDA5807arduino270.tft =  a ready to load file to the nextion at 270°.
+There are three files : 
+ RDA5807arduino.hmi = if you want to edit ;
+ RDA5807arduino90.tft = a ready to load file to the nextion at 90°;
+ RDA5807arduino270.tft =  a ready to load file to the nextion at 270°.
 
 - the power amplifier PAM8403 mini 5V digital amplifier board: https://www.aliexpress.com/item/32681042149.html?spm=a2g0o.productlist.0.0.1e8d1271nbvlgH&algo_pvid=3b0ba04b-49a6-4d1c-b2aa-4a0ffdce129a&algo_exp_id=3b0ba04b-49a6-4d1c-b2aa-4a0ffdce129a-3&pdp_ext_f=%7B%22sku_id%22%3A%2260334573266%22%7D
 
