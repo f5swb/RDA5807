@@ -37,4 +37,4 @@ As we can see on the picture the chip is small so we have to solder it on a litt
 
 
 
-<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/fm-stereo-radio-rda5807m-module-roboromania-pinout_CFyabpEr0p.jpeg" title = "RDA5807 chip">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rda_solder.jpg" title = "RDA5807 solder">
