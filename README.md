@@ -127,3 +127,8 @@ Touch the VOLUME button to get the + and - function volume level.
 
 Good to know: you will see a level bar value instead of the frequency bar value, you can also control the level with the volume number at the right screen corner.  
 
+To mute the volume just touch to the MUTE button 
+
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/mute.PNG" title = "page1.png">
+
+
