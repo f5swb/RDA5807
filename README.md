@@ -89,7 +89,7 @@ void setup() { <br/>
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/Page_1_explaination.png" title = "page1.png">
 
-Good to know: to get a good RDS information, the signal should be upper than 50 dBuV, a lower value give invalid RDS datas or nothing ....
+**Good to know: to get a good RDS information, the signal should be upper than 50 dBuV, a lower value give invalid RDS datas or nothing ....**
 
 ### 8 - Normal operation stand alone:
 
@@ -103,7 +103,7 @@ The RDS station will be updated and the information text in live mode.
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/Page_2_explaination!.png" title = "page1.png">
 
-Good to know: if you want to get back to the first page, just touch the FM clipart, it's also the same operation from page 1 to go to this page !
+**Good to know: if you want to get back to the first page, just touch the FM clipart, it's also the same operation from page 1 to go to this page !**
 
 ### 9 - SEEK and TUNE operation:
 
@@ -117,15 +117,15 @@ If SEEK button is blue you are in SEEK MODE operation, so if you touch the >> yo
 
 Touch TUNE button to go to the TUNE MODE operation, so if you touch the + you are going to seek up and - will seek down.
 
-Good to know: if you see the MEMORY button in blue the frequency tuned is already in the memory bank (see MEMORY BANK).
+**Good to know: if you see the MEMORY button in blue the frequency tuned is already in the memory bank (see MEMORY BANK).**
 
-### 10 - VOLUME operation:
+### 10 - VOLUME operation :
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/volume.PNG" title = "page1.png">
 
 Touch the VOLUME button to get the + and - function volume level.
 
-**Good to know: you will see a level bar value instead of the frequency bar value, you can also control the level with the volume number at the right screen corner.**  
+**Good to know : you will see a level bar value instead of the frequency bar value, you can also control the level with the volume number at the right screen corner.**  
 
 To mute the volume just touch to the MUTE button. 
 
