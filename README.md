@@ -111,6 +111,11 @@ Good to know: if you want to get back to the first page, just touch the FM clipa
 
 If SEEK button is blue you are in SEEK MODE operation, so if you touch the >> you are going to seek up and << will seek down 
 
+
+<img src = "
+https://github.com/f5swb/RDA5807/blob/main/Pictures/tune.PNG" title = "page1.png">
+
+
 Touch tune button to go to the TUNE MODE operation, so if you touch the + you are going to seek up and - will seek down
 
 Good to know: if you see the MEMORY button in blue the frequency tuned is already in the memory bank (see MEMORY BANK)
