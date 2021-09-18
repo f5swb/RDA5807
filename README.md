@@ -1,9 +1,9 @@
 # RDA5807
 RDA5807 fm chipset / arduino with a Nextion screen F5SWB@2021 / Version 1.16 (f5swb@hotmail.com)
 
-NEXTION library from  https://github.com/Seithan/EasyNextionLibrary a light and simple library for the Nextion screen - By seithagta <br/>
-RDA5807 library from https://pu2clr.github.io/RDA5807/ Arduino Library for RDA5807 Devices - By Ricardo Lima Caratti <br/>
-Original Nextion HMI from https://github.com/PU4RLN/Arduino-FM-Radio-with-Nextion-Display with a TEA5767 Device Thanks to him
+NEXTION library from  https://github.com/Seithan/EasyNextionLibrary a light and simple library for the Nextion screen - By seithagta. <br/>
+RDA5807 library from https://pu2clr.github.io/RDA5807/ Arduino Library for RDA5807 Devices - By Ricardo Lima Caratti. <br/>
+Original Nextion HMI from https://github.com/PU4RLN/Arduino-FM-Radio-with-Nextion-Display with a TEA5767 Device Thanks to him.
 
 ### 1- The first step is what you need :
 - the RDA5807M chip : https://www.aliexpress.com/item/4000694502415.html?spm=a2g0o.productlist.0.0.46ce2056Q6WnOW&algo_pvid=79b67fca-b240-497d-a16a-64bf4971c04d&algo_exp_id=79b67fca-b240-497d-a16a-64bf4971c04d-8&pdp_ext_f=%7B%22sku_id%22%3A%2210000006049664671%22%7D
@@ -99,7 +99,7 @@ After 10 seconds if you don't touch anything, the screen page is going to change
 
 ###### Explanation:
 
-The RDS station will be updated and the information text in live mode  
+The RDS station will be updated and the information text in live mode.  
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/Page_2_explaination!.png" title = "page1.png">
 
@@ -109,15 +109,19 @@ Good to know: if you want to get back to the first page, just touch the FM clipa
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/page1.PNG" title = "page1.png">
 
-If SEEK button is blue you are in SEEK MODE operation, so if you touch the >> you are going to seek up and << will seek down 
+If SEEK button is blue you are in SEEK MODE operation, so if you touch the >> you are going to seek up and << will seek down. 
 
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/tune.PNG" title = "page1.png">
 
 
-Touch TUNE button to go to the TUNE MODE operation, so if you touch the + you are going to seek up and - will seek down
+Touch TUNE button to go to the TUNE MODE operation, so if you touch the + you are going to seek up and - will seek down.
 
-Good to know: if you see the MEMORY button in blue the frequency tuned is already in the memory bank (see MEMORY BANK)
+Good to know: if you see the MEMORY button in blue the frequency tuned is already in the memory bank (see MEMORY BANK).
 
 ### 10 - volume operation:
+
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/volume.PNG" title = "page1.png">
+
+Touch the VOLUME button to get the + and - function volume level 
 
