@@ -11,7 +11,7 @@ First step : what you need
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/3d.png" width="200" height="200" title = "RDA5807M chip">
 
 
-- the Nextion screen :
+- the Nextion screen : https://www.aliexpress.com/item/1005003070416379.html?spm=a2g0o.productlist.0.0.27f163efVB6PZF&algo_pvid=04feb086-c9bf-4afa-b8c9-07704eea8086&algo_exp_id=04feb086-c9bf-4afa-b8c9-07704eea8086-4&pdp_ext_f=%7B%22sku_id%22%3A%2212000023784548675%22%7D
 
 
 
@@ -19,6 +19,7 @@ First step : what you need
 
 - the power amplifier : https://www.aliexpress.com/item/32681042149.html?spm=a2g0o.productlist.0.0.1e8d1271nbvlgH&algo_pvid=3b0ba04b-49a6-4d1c-b2aa-4a0ffdce129a&algo_exp_id=3b0ba04b-49a6-4d1c-b2aa-4a0ffdce129a-3&pdp_ext_f=%7B%22sku_id%22%3A%2260334573266%22%7D
 
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/vs-elec-mini-module-de-radio-chip-fm-stereo-rda5.webp" width="200" height="200" title = "RDA5807M chip">
 
 - and finally a arduino nano : 
 
