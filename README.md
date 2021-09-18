@@ -175,5 +175,17 @@ On this page it's possible to control the brightness of the screen and load a sc
 
 3 - RSSIFinder :
 
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rssi.PNG" title = "page1.png">
+
+This page give you an extra opportunity to catch the RSSI level in live and rotate your antenna to get the more powerful signal.
+
+**Good to know : the frequency is from 88 Mhz to 108 Mhz. If we choose the middle of the band and we calculate the antenna approximativaly :
+Middle frequency is 108 - 88 = 20 so the middle frequency is 88 + 10 = 108 Mhz.
+so now calculate with the lambda formula :
+Lambda = 300 / F(Mhz)
+So Lambda is in our case Lambda = 300/108 = 2.77 meters.
+Now we want a 1/4 vertical antenna so 2.77 / 4 = 0.69m.
+So we need a vertical antenna of +/- 70cm to get the more power receive.***
+
 
 
