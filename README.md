@@ -173,4 +173,7 @@ On this page it's possible to control the brightness of the screen and load a sc
 **Good to know : all this settings will be saved into the Nextion memory and will available with the next power on.**
 
 
+3 - RSSIFinder :
+
+
 
