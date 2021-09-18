@@ -8,7 +8,7 @@ Original Nextion HMI from https://github.com/PU4RLN/Arduino-FM-Radio-with-Nextio
 First step : what you need 
 - the RDA5807M chip : https://www.aliexpress.com/item/4000694502415.html?spm=a2g0o.productlist.0.0.46ce2056Q6WnOW&algo_pvid=79b67fca-b240-497d-a16a-64bf4971c04d&algo_exp_id=79b67fca-b240-497d-a16a-64bf4971c04d-8&pdp_ext_f=%7B%22sku_id%22%3A%2210000006049664671%22%7D
 
-<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/3d.png" width="200" height="200" title = "RDA5807M chip">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/3d.png" width="150" height="150" title = "RDA5807M chip">
 
 
 - the Nextion screen NX4832K035: https://www.aliexpress.com/item/1005003070416379.html?spm=a2g0o.productlist.0.0.27f163efVB6PZF&algo_pvid=04feb086-c9bf-4afa-b8c9-07704eea8086&algo_exp_id=04feb086-c9bf-4afa-b8c9-07704eea8086-4&pdp_ext_f=%7B%22sku_id%22%3A%2212000023784548675%22%7D
