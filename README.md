@@ -104,3 +104,6 @@ The RDS station will be updated and the information text in live mode
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/Page_2_explaination!.png" title = "page1.png">
 
 Good to know: if you want to get back to the first page, just touch the FM clipart, it's also the same operation from page 1 to go to this page !
+
+### 9 - Menu page:
+
