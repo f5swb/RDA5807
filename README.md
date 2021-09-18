@@ -177,7 +177,8 @@ On this page it's possible to control the brightness of the screen and load a sc
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rssi.PNG" title = "page1.png">
 
-This page give you an extra opportunity to catch the RSSI level in live and rotate your antenna to get the more powerful signal.
+This page give you an extra opportunity to catch the RSSI level in live and rotate your antenna to get the more powerful signal.<br/>
+Just touch the START button (the level is refreshed each second). <br/>
 
 **Good to know : the frequency is from 88 Mhz to 108 Mhz. <br/>
 If we choose the middle of the band and we calculate the antenna approximativaly : <br/>
