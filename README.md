@@ -30,5 +30,6 @@ There are three files : <br/>
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/61GU9zrBTOL._AC_SX522_.jpg" width="200" height="200" title = "ARDUINO NANO">
 
+# 2- Prepare the RDA5807M chip :
 
-
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/fm-stereo-radio-rda5807m-module-roboromania-pinout_CFyabpEr0p.jpeg" width="200" height="200" title = "RDA5807 chip">
