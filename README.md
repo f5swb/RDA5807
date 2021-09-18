@@ -119,16 +119,19 @@ Touch TUNE button to go to the TUNE MODE operation, so if you touch the + you ar
 
 Good to know: if you see the MEMORY button in blue the frequency tuned is already in the memory bank (see MEMORY BANK).
 
-### 10 - volume operation:
+### 10 - VOLUME operation:
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/volume.PNG" title = "page1.png">
 
 Touch the VOLUME button to get the + and - function volume level.
 
-Good to know: you will see a level bar value instead of the frequency bar value, you can also control the level with the volume number at the right screen corner.  
+**Good to know: you will see a level bar value instead of the frequency bar value, you can also control the level with the volume number at the right screen corner.**  
 
-To mute the volume just touch to the MUTE button 
+To mute the volume just touch to the MUTE button. 
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/mute.PNG" title = "page1.png">
+
+
+### 11 - MEEMORY BANK operation :
 
 
