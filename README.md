@@ -5,7 +5,7 @@ NEXTION library from  https://github.com/Seithan/EasyNextionLibrary a light and 
 RDA5807 library from https://pu2clr.github.io/RDA5807/ Arduino Library for RDA5807 Devices - By Ricardo Lima Caratti <br/>
 Original Nextion HMI from https://github.com/PU4RLN/Arduino-FM-Radio-with-Nextion-Display with a TEA5767 Device Thanks to him
 
-### 1- First step is what you need :
+### 1- The first step is what you need :
 - the RDA5807M chip : https://www.aliexpress.com/item/4000694502415.html?spm=a2g0o.productlist.0.0.46ce2056Q6WnOW&algo_pvid=79b67fca-b240-497d-a16a-64bf4971c04d&algo_exp_id=79b67fca-b240-497d-a16a-64bf4971c04d-8&pdp_ext_f=%7B%22sku_id%22%3A%2210000006049664671%22%7D
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/3d.png" width="150" height="150" title = "RDA5807M chip">
@@ -30,23 +30,23 @@ There are three files : <br/>
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/61GU9zrBTOL._AC_SX522_.jpg" width="200" height="200" title = "ARDUINO NANO">
 
-# 2- Prepare the RDA5807M chip :
+### 2- Prepare the RDA5807M chip :
 
 <img src = "https://raw.githubusercontent.com/f5swb/RDA5807/main/Pictures/vs-elec-mini-module-de-radio-chip-fm-stereo-rda5.webp" title = "RDA5807 chip">
 As we can see on the picture the chip is small so we have to solder it with component tabs like this : <br/> <br/>
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rda_solder.jpg" width="300" height="250" title = "RDA5807 solder">
 
-# 3 - Here is the final schema :
+### 3 - Here is the final schema :
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/schema.png" title = "schema.png">
 Do all the link according to the schema :)
 
-# 4 - Load the ino sketch into the arduino nano :
+### 4 - Load the ino sketch into the arduino nano :
 
-# 5 - Load the tft file into the nextion screen :
+### 5 - Load the tft file into the nextion screen :
 
 
-# 6 - First start of the system :
+### 6 - First start of the system :
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot1.PNG" title = "boot1.png">
 
 When you power on the arduino nano there is a scan of the I2C address to control if the RDA5807M is present at the begin of the void setup : <br/>
@@ -76,7 +76,7 @@ void setup() { <br/>
  another way, have a look at your build there's a problem ....
 
 
-  # 7 - First page of the system : 
+### 7 - First page of the system : 
   
   <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/page1.PNG" title = "page1.png">
   
