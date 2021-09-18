@@ -89,4 +89,4 @@ void setup() { <br/>
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/Page_1.png" title = "page1.png">
 
-
+Good to know: to get a good RDS information, the signal should be upper than 50 dBuV, a lower value give invalid RDS datas or nothing ....
