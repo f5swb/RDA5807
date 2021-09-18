@@ -184,10 +184,10 @@ Just touch the START button (the level is refreshed each second). <br/>
 If we choose the middle of the band and we calculate the antenna approximativaly : 
 <br/>
 Middle frequency is 108 - 88 = 20 so the middle frequency is 88 + 10 = 108 Mhz. <br/>
-so now calculate with the lambda formula : <br/>
+So now we calculate with the lambda formula : <br/>
 Lambda = 300 / F(Mhz) <br/>
-So Lambda is in our case Lambda = 300/108 = 2.77 meters.<br/>
-Now we want a 1/4 vertical antenna so 2.77 / 4 = 0.69m.<br/>
+So Lambda is in our case : 300/108 = 2.77 meters.<br/>
+Now we want a 1/4 vertical antenna so 2.77m / 4 = 0.69m.<br/>
 So we need a vertical antenna of +/- 70cm to get the more power receive.** <br/>
 
 
