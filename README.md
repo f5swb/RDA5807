@@ -87,6 +87,6 @@ void setup() { <br/>
    
 ###### Explanation:
 
-<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/page_1.PNG" title = "page1.png">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/Page_1.png" title = "page1.png">
 
 
