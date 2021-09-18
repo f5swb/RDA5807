@@ -33,8 +33,6 @@ There are three files : <br/>
 # 2- Prepare the RDA5807M chip :
 
 <img src = "https://raw.githubusercontent.com/f5swb/RDA5807/main/Pictures/vs-elec-mini-module-de-radio-chip-fm-stereo-rda5.webp" title = "RDA5807 chip">
-As we can see on the picture the chip is small so we have to solder it on a little board like this :
-
-
+As we can see on the picture the chip is small so we have to solder it with component tabs like this : <br/> <br/>
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rda_solder.jpg" width="300" height="250" title = "RDA5807 solder">
