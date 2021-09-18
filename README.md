@@ -123,5 +123,7 @@ Good to know: if you see the MEMORY button in blue the frequency tuned is alread
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/volume.PNG" title = "page1.png">
 
-Touch the VOLUME button to get the + and - function volume level 
+Touch the VOLUME button to get the + and - function volume level.
+
+Good to know: you will see a level bar value instead of the frequency bar value, you can also control the level with the volume number at the right screen corner.  
 
