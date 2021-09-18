@@ -145,5 +145,7 @@ Just press on the memory button to go to the new frequency, the screen will be b
 
 ### 12 - MENU operation :
 
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/menu.PNG" title = "page1.png">
+
 
 
