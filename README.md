@@ -186,7 +186,7 @@ so now calculate with the lambda formula : <br/>
 Lambda = 300 / F(Mhz) <br/>
 So Lambda is in our case Lambda = 300/108 = 2.77 meters.<br/>
 Now we want a 1/4 vertical antenna so 2.77 / 4 = 0.69m.<br/>
-So we need a vertical antenna of +/- 70cm to get the more power receive.*** <br/>
+So we need a vertical antenna of +/- 70cm to get the more power receive.** <br/>
 
 
 
