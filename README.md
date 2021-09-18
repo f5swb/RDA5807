@@ -83,5 +83,10 @@ void setup() { <br/>
 ### 7 - First page of the system : 
   
   <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/page1.PNG" title = "page1.png">
-  
- 
+
+   
+###### Explanation:
+
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/page_1.PNG" title = "page1.png">
+
+
