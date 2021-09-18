@@ -3,6 +3,22 @@ RDA5807 fm chipset / arduino with a Nextion screen F5SWB@2021 / Version 1.16 (f5
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/f5swb.jpg" title = "f5swb">
 
+Specifications : 
+- detection of the RDA5807M chip I2C at the start sketch ;
+- the last frequency and the last volume level are saved into the arduino memory ;
+- Screensaver function ;
+- Brightness level function ;  
+- SEEK function ;
+- TUNE function ;
+- VOLUME level function ;
+- MUTE function ;
+- DATE/TIME function ;
+- RSSIFinder function ;
+- RDS info station ;
+- RDS info text from the station ;
+- MEMORY BANK function ;
+- Save new MEMORY into the Nextion screen (TO DO) ;  
+
 
 French version : https://github-com.translate.goog/f5swb/RDA5807/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=nui,elem
 
