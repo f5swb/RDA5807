@@ -51,6 +51,7 @@ To get the Real Time Control and the backup saved functions (screen saver, memor
 
 - one external antenna for the FM Band : https://www.aliexpress.com/item/32880451863.html?src=google&src=google&albch=shopping&acnt=248-630-5778&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=11388352280&albag=111501228717&trgt=800756788546&crea=fr32880451863&netw=u&device=c&albpg=800756788546&albpd=fr32880451863&gclid=Cj0KCQjwnJaKBhDgARIsAHmvz6ezDb2Oxu1_sZV6K7LjcXVc28Ax-3irOp9N9VVF2jsIV6QMiWSNgfsaAkHwEALw_wcB&gclsrc=aw.ds
 
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/antenna.PNG" title = "PAM8403 chip">
 
 
 - and finally a arduino nano:  https://www.aliexpress.com/item/1005001333437432.html?spm=a2g0o.productlist.0.0.7c4f3473PFzYyZ&algo_pvid=e5a3d244-a2dd-4984-88da-f32683a0d0cd&aem_p4p_detail=202109180300471025981813601330000109028&algo_exp_id=e5a3d244-a2dd-4984-88da-f32683a0d0cd-6&pdp_ext_f=%7B%22sku_id%22%3A%2212000015727632652%22%7D
