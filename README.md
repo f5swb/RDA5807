@@ -36,7 +36,7 @@ Original Nextion HMI from https://github.com/PU4RLN/Arduino-FM-Radio-with-Nextio
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/NEXTION.png" width="250" height="150" title = "NEXTION screen">
 
-To get the Real Time Control and the backup saved functions (screen saver, memory bank etc ... you need also to put into the Nextion screen a Battery type CR1220 :
+To get the Real Time Control and the backup saved functions (screen saver, memory bank etc ...) you need also to put into the Nextion screen a Battery type CR1220 :
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rtc_battery.jpg" width="800" height="600" title = "battery">
 
