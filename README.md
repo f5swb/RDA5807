@@ -221,8 +221,9 @@ If you touch the MEMORY BANK button in the MENU, you will be invited to choose a
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/memory.PNG" title = "memory.png">
 
-Then this page will propose to you to save the new frequency into the memory bank you have choosen. 
-The 97.2 Mhz frequency will be stored into the memory bank number 7 on this example.
+Then a new page will propose to you to save the new frequency into the memory bank you have choosen.<br/>
+ 
+The 97.2 Mhz frequency will be stored into the memory bank number 7 in this example.
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/mem%20ok.PNG" title = "memory ok.png">
 
