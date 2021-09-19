@@ -99,7 +99,7 @@ void setup() { <br/>
  
  <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot2.PNG" title = "boot1.png">
  
- another way, have a look at your build there's a problem ....
+ another way, have a look at your links there's a problem ....
 
 
 ### 7 - First page of the system : 
