@@ -230,8 +230,9 @@ You can cancel you choice or validate it if you press the green button.<br/>
 If you press the green button, a new page will tell you that the memory operation is ok.
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/memory7.PNG" title = "memory ok.png">
-If you press on page 1 on the MEM button we can see that a 97.2 Mhz is now recorded in the  
+If you press on page 1 on the MEM button we can see that a 97.2 Mhz is now recorded in the MEM 7 bank.  
 
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/newmem7.PNG" title = "memory ok.png">
 
 
 
