@@ -1,10 +1,11 @@
 # RDA5807
 RDA5807 fm chipset / arduino with a Nextion screen F5SWB@2021 / Version 1.16 (f5swb@hotmail.com)
+https://github.com/f5swb/RDA5807/blob/main/RDA5807M_datasheet_v1.pdf
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/f5swb.jpg" title = "f5swb">
 
 Specifications : 
-- detection of the RDA5807M chip I2C when the sketch ino start ; https://www.electrodragon.com/w/images/5/5f/RDA5807M_datasheet_v1.pdf
+- detection of the RDA5807M chip I2C when the sketch ino start ; 
 - the last frequency and the last volume level are saved into the arduino nano memory ;
 - Screensaver function (saved into the Nextion memory) ;
 - Brightness level function (saved into the Nextion memory) ;  
