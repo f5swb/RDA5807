@@ -215,5 +215,14 @@ So Lambda is in our case : 300/108 = 2.77 meters.<br/>
 Now we want a 1/4 vertical antenna so 2.77m / 4 = 0.69m.<br/>
 So we need a vertical antenna of +/- 70cm to get the more power receive.** <br/>
 
+4 - MEMORY BANK :
+
+If you touch the MEMORY BANK button in the MENU, you will be invited to choose a memory channel to record the actual frequency of the RDA5807M, <br/> 
+just select one memory bank where you want to record a new frequency 
+
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/memory.PNG" title = "memory.png">
+
+Then this page will propose to you to save the new frequency into the memory bank you have choosen 
+
 
 
