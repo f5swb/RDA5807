@@ -40,7 +40,7 @@ To get the Real Time Control and the backup saved functions (screen saver, memor
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/rtc_battery.jpg" width="800" height="600" title = "battery">
 
-Please don't ask me for another screen size, it takes a lot of time to program, you can download the hmi file if you want to change the size.
+Please don't ask me for another screen size, it takes a lot of time to program, you can download the hmi file if you want to change the size.  <br/>
 Have a look here if you don't know how to load the file into the nextion : https://www.youtube.com/watch?v=-EV5M9qNkUE
 
 There are three files : <br/>
