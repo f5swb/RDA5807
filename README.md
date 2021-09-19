@@ -42,18 +42,15 @@ To get the Real Time Control and the backup saved functions (screen saver, memor
 
 - the power amplifier PAM8403 mini 5V digital amplifier board: https://www.aliexpress.com/item/32681042149.html?spm=a2g0o.productlist.0.0.1e8d1271nbvlgH&algo_pvid=3b0ba04b-49a6-4d1c-b2aa-4a0ffdce129a&algo_exp_id=3b0ba04b-49a6-4d1c-b2aa-4a0ffdce129a-3&pdp_ext_f=%7B%22sku_id%22%3A%2260334573266%22%7D
 
-<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/amp.png" width="200" height="200" title = "PAM8403 chip">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/amp.png" width="400" height="400" title = "PAM8403 chip">
 
 - two speaker 8 ohms 2 Watt : https://www.aliexpress.com/item/32951065463.html?spm=a2g0o.detail.1000014.35.62902166QYU9cM&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.183346.0&scm_id=1007.13338.183346.0&scm-url=1007.13338.183346.0&pvid=a5be1632-f57b-4fe1-b55b-c6c0257736d0&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.13338.183346.0,pvid:a5be1632-f57b-4fe1-b55b-c6c0257736d0,tpp_buckets:668%232846%238116%232002&&pdp_ext_f=%7B%22sceneId%22:%2223416%22,%22sku_id%22:%2266331553735%22%7D
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/hp.PNG" title = "PAM8403 chip">
 
-
-
-
 - and finally a arduino nano:  https://www.aliexpress.com/item/1005001333437432.html?spm=a2g0o.productlist.0.0.7c4f3473PFzYyZ&algo_pvid=e5a3d244-a2dd-4984-88da-f32683a0d0cd&aem_p4p_detail=202109180300471025981813601330000109028&algo_exp_id=e5a3d244-a2dd-4984-88da-f32683a0d0cd-6&pdp_ext_f=%7B%22sku_id%22%3A%2212000015727632652%22%7D
 
-<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/61GU9zrBTOL._AC_SX522_.jpg" width="200" height="200" title = "ARDUINO NANO">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/61GU9zrBTOL._AC_SX522_.jpg" width="400" height="400" title = "ARDUINO NANO">
 
 ### 2- Prepare the RDA5807M chip :
 
