@@ -1,5 +1,5 @@
 # RDA5807
-RDA5807 fm chipset / arduino with a Nextion screen F5SWB@2021 / Version 1.16 (f5swb@hotmail.com)
+RDA5807 fm chipset / arduino with a Nextion screen F5SWB@2021 / Version 1.16 (f5swb@hotmail.com) <br/>
 https://github.com/f5swb/RDA5807/blob/main/RDA5807M_datasheet_v1.pdf
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/f5swb.jpg" title = "f5swb">
