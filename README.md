@@ -236,6 +236,14 @@ If you press on page 1, on the MEM button, we can see now that a 97.2 Mhz is now
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/newmem7.PNG" title = "memory ok.png">
 
+09/19/2021 status. 
 
+To do :
+- save the new frequencies into the Nextion screen and reload them at the start ; 
+- stop the RDS function when we start the RSSIFinder function ; 
+- clear the RDSFIFO (RDS station and RDS informations) when we change the frequency ; 
+- add a buzzer connected to the arduino when we touch the screen ; 
+
+To be continued ....
 
 
