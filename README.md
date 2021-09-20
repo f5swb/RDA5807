@@ -222,6 +222,9 @@ So we need a vertical antenna of +/- 70cm to get the more power receive.** <br/>
 4 - MEMORY BANK :
 
 At the first start, all the MEMORY BANK are free, just select a memory bank to record a new frequency. <br/>
+
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/free%20memory.PNG" title = "memory ok.png">
+
 After that, if you touch the MEMORY BANK button in the MENU, you will be invited to choose a memory channel to record the actual frequency of the RDA5807M, just select the memory bank where you want to record a new frequency. 
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/memory.PNG" title = "memory.png">
