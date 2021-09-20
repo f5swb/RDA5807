@@ -174,7 +174,7 @@ If you press on the MEMORY button this page will be open :
 Just press on the memory button to go to the new frequency, the screen will be back on the first page automaticaly.
 
 **Good to know : with the MENU button, MEMORY BANK it will be possible to record new frequencies into the Nextion memory according to your country place** 
-***(TO DO : not in the 1.16 version)***
+
 
 ### 12 - MENU operation :
 
