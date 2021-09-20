@@ -198,7 +198,8 @@ https://raw.githubusercontent.com/f5swb/RDA5807/main/Pictures/rtc_battery.jpg**
 
 On this page it's possible to control the brightness of the screen and load a screen saver function.
 
-**Good to know : all this settings will be saved into the Nextion memory and will be available with the next power on.**
+**Good to know : all this settings will be saved into the Nextion memory and will be available with the next power on.<br/>
+The screensaver is only active on the page 2, if you change it will be in standby mode **
 
 
 3 - RSSIFinder :
@@ -220,7 +221,8 @@ So we need a vertical antenna of +/- 70cm to get the more power receive.** <br/>
 
 4 - MEMORY BANK :
 
-If you touch the MEMORY BANK button in the MENU, you will be invited to choose a memory channel to record the actual frequency of the RDA5807M, just select the memory bank where you want to record a new frequency. 
+At the first start, all the MEMORY BANK are free, just select a memory bank to record a new frequency. <br/>
+After that, if you touch the MEMORY BANK button in the MENU, you will be invited to choose a memory channel to record the actual frequency of the RDA5807M, just select the memory bank where you want to record a new frequency. 
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/memory.PNG" title = "memory.png">
 
@@ -240,7 +242,6 @@ If you press on page 1, on the MEM button, we can see now that 97.2 Mhz is now r
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/newmem7.PNG" title = "memory ok.png">
 
 09/19/2021 To do status (not in the 1.16 version) :
-- save the new frequencies into the Nextion screen and reload them at the start ; 
 - stop the RDS function when we start the RSSIFinder function ; 
 - clear the RDSFIFO (RDS station and RDS informations) when we change the frequency ; 
 - add a buzzer connected to the arduino when we touch the screen ; 
