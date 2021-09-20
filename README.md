@@ -248,7 +248,7 @@ If you press on page 1, on the MEM button, we can see now that 97.2 Mhz is now r
 - stop the RDS function when we start the RSSIFinder function ; 
 - clear the RDSFIFO (RDS station and RDS informations) when we change the frequency ; 
 - add a buzzer connected to the arduino when we touch the screen ;
-- if this is the first boot select a FM frequency and a volume level. 
+- if this is the first boot select a default FM frequency and a volume level. 
 
 To be continued ....
 
