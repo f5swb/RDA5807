@@ -199,7 +199,7 @@ https://raw.githubusercontent.com/f5swb/RDA5807/main/Pictures/rtc_battery.jpg**
 On this page it's possible to control the brightness of the screen and load a screen saver function.
 
 **Good to know : all this settings will be saved into the Nextion memory and will be available with the next power on.<br/>
-The screensaver is only active on the page 2, if you change of page it will be in standby mode it starts after +/- 2 minutes**
+The screensaver is only active on the page 2, if you change of page it will be in standby mode it starts after +/- 2 minutes.**
 
 
 3 - RSSIFinder :
