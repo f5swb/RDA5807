@@ -247,7 +247,8 @@ If you press on page 1, on the MEM button, we can see now that 97.2 Mhz is now r
 09/20/2021 To do status (not in the 1.16 version) :
 - stop the RDS function when we start the RSSIFinder function ; 
 - clear the RDSFIFO (RDS station and RDS informations) when we change the frequency ; 
-- add a buzzer connected to the arduino when we touch the screen ; 
+- add a buzzer connected to the arduino when we touch the screen ;
+- if this is the first boot select a FM frequency and a volume level. 
 
 To be continued ....
 
