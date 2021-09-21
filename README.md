@@ -72,7 +72,7 @@ As we can see on the picture the chip is small so we have to solder it with comp
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/schema.png" title = "schema.png">
 Do all the links according to the schema :)
 
-### 4 - Load the ino sketch into the arduino nano : https://github.com/f5swb/RDA5807/tree/main/arduino_nano_sketch/rda5807Nextionv1.16.ino 
+### 4 - Load the ino sketch into the arduino nano : ### https://github.com/f5swb/RDA5807/tree/main/arduino_nano_sketch/rda5807Nextionv1.16.ino 
 
 ### 5 - Load the tft file into the nextion screen :
 Please don't ask me for another screen size, it takes a lot of time to program, you can download the hmi file if you want to change the size.  <br/>
