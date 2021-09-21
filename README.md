@@ -80,9 +80,12 @@ Please don't ask me for another screen size, it takes a lot of time to program, 
 Have a look here if you don't know how to load the file into the nextion : https://www.youtube.com/watch?v=-EV5M9qNkUE
 
 There are three files : <br/>
- RDA5807arduino.hmi = if you want to edit ; https://github.com/f5swb/RDA5807/blob/main/nextion_files/rda5807Nextionv1.18.HMI <br/>
- RDA5807arduino90.tft = a ready to load file to the nextion at 90°; https://github.com/f5swb/RDA5807/blob/main/nextion_files/rda5807Nextionv1.18_90deg.tft <br/>
+ RDA5807arduino.hmi = if you want to edit ; <br/>
+ https://github.com/f5swb/RDA5807/blob/main/nextion_files/rda5807Nextionv1.18.HMI <br/>
+ RDA5807arduino90.tft = a ready to load file to the nextion at 90°;<br/>
+ https://github.com/f5swb/RDA5807/blob/main/nextion_files/rda5807Nextionv1.18_90deg.tft <br/>
  RDA5807arduino270.tft =  a ready to load file to the nextion at 270°. <br/>
+ https://github.com/f5swb/RDA5807/blob/main/nextion_files/rda5807Nextionv1.18_270deg.tft <br/>
 
 ### 6 - First start of the system :
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot1.PNG" title = "boot1.png">
