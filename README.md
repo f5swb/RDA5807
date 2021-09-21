@@ -92,9 +92,6 @@ There are three files : <br/>
 
 When you power on the arduino nano there is a scan of the I2C address to control if the RDA5807M is present at the begin of the void setup : <br/>
 
-<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot.gif" title = "f5swb">
-
-
 void setup() { <br/>
   myNex.begin(115200); // we fix the bauds speed between the arduino and the nextion at 115200 bauds <br/>
   Wire.begin(); //we scan the I2C bus to see if the RDA5807 chip is connected and find his 3 address <br/>
@@ -113,7 +110,8 @@ void setup() { <br/>
    
  if you see this picture your RDA5807M is well detected : 
  
- <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot2.PNG" title = "boot1.png">
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot.gif" title = "f5swb">
+
  
  another way, have a look at your links there's a problem ....
 
