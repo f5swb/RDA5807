@@ -81,7 +81,7 @@ Have a look here if you don't know how to load the file into the nextion : https
 
 There are three files : <br/>
  RDA5807arduino.hmi = if you want to edit ; https://github.com/f5swb/RDA5807/blob/main/nextion_files/rda5807Nextionv1.18.HMI <br/>
- RDA5807arduino90.tft = a ready to load file to the nextion at 90°; <br/>
+ RDA5807arduino90.tft = a ready to load file to the nextion at 90°; https://github.com/f5swb/RDA5807/blob/main/nextion_files/rda5807Nextionv1.18_90deg.tft <br/>
  RDA5807arduino270.tft =  a ready to load file to the nextion at 270°. <br/>
 
 ### 6 - First start of the system :
