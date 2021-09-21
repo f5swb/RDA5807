@@ -21,7 +21,7 @@ Specifications :
 - RDS info station ;
 - RDS info text from the station ;
 - MEMORY BANK function ;
-- Editable new MEMORY into the Nextion screen (TO DO : not in the version 1.16 ) ;  
+- Editable and save new MEMORY into the Nextion screen.  
 
 
 
@@ -248,7 +248,6 @@ If you press on page 1, on the MEM button, we can see now that 97.2 Mhz is now r
 - stop the RDS function when we start the RSSIFinder function ; 
 - clear the RDSFIFO (RDS station and RDS informations) when we change the frequency ; 
 - add a buzzer connected to the arduino when we touch the screen ;
-- if this is the first boot select a default FM frequency and a volume level. 
 
 To be continued ....
 
