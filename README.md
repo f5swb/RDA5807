@@ -92,7 +92,8 @@ There are three files : <br/>
 
 When you power on the arduino nano there is a scan of the I2C address to control if the RDA5807M is present at the begin of the void setup : <br/>
 
-https://github.com/f5swb/RDA5807/blob/main/Pictures/boot.gif
+<img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot.gif" title = "f5swb">
+
 
 void setup() { <br/>
   myNex.begin(115200); // we fix the bauds speed between the arduino and the nextion at 115200 bauds <br/>
