@@ -112,7 +112,7 @@ void setup() { <br/>
  
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/boot.gif" title = "f5swb">
 
- another way, if you see this picture have a look at your build there's a problem ....
+ another way, if you see this picture have a look at your assemblly there's a problem ....
 
 <img src = "https://github.com/f5swb/RDA5807/blob/main/Pictures/no%20boot.gif" title = "f5swb">
 
