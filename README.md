@@ -1,5 +1,5 @@
 # RDA5807
-RDA5807 fm chipset / arduino with a Nextion screen F5SWB@2021 / Version 1.16 (f5swb@hotmail.com) <br/>
+RDA5807 fm chipset / arduino with a Nextion screen F5SWB@2021 / Version 1.18 (f5swb@hotmail.com) <br/>
 
 French version : https://github-com.translate.goog/f5swb/RDA5807/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=nui,elem
 
